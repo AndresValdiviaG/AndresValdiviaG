@@ -11,8 +11,6 @@
   <tr>
     <td width="52%" valign="middle">
 
-# Andres Valdivia
-
 ## SOFTWARE DEVELOPER  
 ### MECHATRONICS ENGINEER
 
